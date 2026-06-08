@@ -1,4 +1,4 @@
-# CPUPeter
+# CPUPeter67 (I am not ashamed to say I had a LOT of help from Google Gemini in creating this README).
 # Hi there, I'm CPUPeter! 👋
 
 <p align="center">
