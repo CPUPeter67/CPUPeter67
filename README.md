@@ -29,13 +29,13 @@
 ## 📂 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/CPUPeter67/Python">
+  <a href="https://github.com/CPUPeter67/Python-HTML">
     <!-- Forced language to Python -->
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CPUPeter67&repo=Python&theme=tokyonight&show_owner=false&lang=Python" alt="Project Card 1" height="120px" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CPUPeter67&repo=Python-HTML&theme=tokyonight&show_owner=false&lang=Python" alt="Project Card 1" height="120px" />
   </a>
-  <a href="https://github.com/CPUPeter67/Javascript">
+  <a href="https://github.com/CPUPeter67/Javascript-HTML">
     <!-- Forced language to JavaScript -->
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CPUPeter67&repo=Javascript&theme=tokyonight&show_owner=false&lang=javascript" alt="Project Card 2" height="120px" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CPUPeter67&repo=Javascript-HTML&theme=tokyonight&show_owner=false&lang=javascript" alt="Project Card 2" height="120px" />
   </a>
 </p>
 
