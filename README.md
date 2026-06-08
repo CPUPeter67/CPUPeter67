@@ -31,11 +31,11 @@
 <p align="center">
   <a href="https://github.com/CPUPeter67/Python">
     
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CPUPeter67&repo=Python&theme=tokyonight&show_owner=false&fallback=Python" alt="Project Card 1" height="120px" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CPUPeter67&repo=Python&theme=tokyonight&show_owner=false&lang=Python" alt="Project Card 1" height="120px" />
   </a>
   <a href="https://github.com/CPUPeter67/Javascript">
-  
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CPUPeter67&repo=Javascript&theme=tokyonight&show_owner=false&fallback=Javascript" alt="Project Card 2" height="120px" />
+    
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CPUPeter67&repo=Javascript&theme=tokyonight&show_owner=false&lang=javascript" alt="Project Card 2" height="120px" />
   </a>
 </p>
 
