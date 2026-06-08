@@ -1,21 +1,16 @@
-```yaml
 name: Generate Snake
-
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs automatically every 24 hours
-  workflow_dispatch: # Allows you to manually trigger it
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
-    - main
-
+      - main
 jobs:
   generate:
-    permissions: 
+    permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
     steps:
       - name: generate-snake-game
         uses: Platane/snk/svg-only@v3
@@ -24,8 +19,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: push-to-branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
