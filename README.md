@@ -19,7 +19,7 @@
 
 ---
 
-##Contribution Snake
+# Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/CPUPeter67/CPUPeter67/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
