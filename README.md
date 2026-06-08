@@ -26,7 +26,7 @@
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Repositories
 
 <p align="center">
   <a href="https://github.com/CPUPeter67/Python-HTML">
