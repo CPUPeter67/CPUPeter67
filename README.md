@@ -7,7 +7,7 @@
   </a>
 </p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" /></p>
 
 <p align="center">
   <!-- GitHub Streak Card (The one that works!) -->
@@ -17,14 +17,14 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CPUPeter67&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
 </p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" /></p>
 
 # Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/CPUPeter67/CPUPeter67/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" /></p>
 
 ## 📂 Featured Repositories
 
@@ -39,20 +39,12 @@
   </a>
 </p>
 
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CPUPeter67&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
----
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" /></p>
 
 ##  Beyond coding...
 
 * Gaming, Chess, Sports, blah blah blah
----
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" /></p>
 
 ## 📫 Connect!
 
