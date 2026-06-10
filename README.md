@@ -1,6 +1,7 @@
 # :)
 # Hi there, I'm CPUPeter! 👋
 
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Meh+coder;Python;Aspiring+entrepreneur" alt="Typing SVG" />
@@ -15,6 +16,10 @@
   
   <!-- Fixed Top Languages Card (Using a stable mirror to prevent crashing) -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CPUPeter67&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CPUPeter67&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Detailed Stats" />
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" /></p>
