@@ -41,6 +41,14 @@
 
 ---
 
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CPUPeter67&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
 ##  Beyond coding...
 
 * Gaming, Chess, Sports, blah blah blah
