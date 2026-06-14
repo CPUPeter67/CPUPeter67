@@ -1,5 +1,5 @@
 # :)
-# Hi there, I'm CPUPeter! 👋
+# Hi there, I'm CPUPeter! (README made mostly with Google Gemini) 👋
 
 
 <p align="center">
@@ -11,10 +11,10 @@
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" /></p>
 
 <p align="center">
-  <!-- GitHub Streak Card (The one that works!) -->
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CPUPeter67&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px" />
   
-  <!-- Fixed Top Languages Card (Using a stable mirror to prevent crashing) -->
+  
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CPUPeter67&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
 </p>
 
