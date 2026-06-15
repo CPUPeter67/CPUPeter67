@@ -1,5 +1,5 @@
 # :)
-# Hi there, I'm CPUPeter! (README made mostly with Google Gemini) 👋
+# Hi there, I'm CPUPeter! (README made partly with Google Gemini) 👋
 
 
 <p align="center">
