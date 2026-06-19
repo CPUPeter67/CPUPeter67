@@ -1,5 +1,5 @@
 # :)
-# Hi there, I'm CPUPeter! (README made partly with Google Gemini) 👋
+# Hi there, I'm CPUPeter! 👋
 
 
 <p align="center">
@@ -48,7 +48,10 @@
 
 ##  Beyond coding...
 
-* Gaming, Chess, Sports, blah blah blah
+* Gaming
+* Sports
+* Chess
+* Blah blah blah...
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" /></p>
 
 ## 📫 Connect!
@@ -56,5 +59,9 @@
 <p align="left">
   <a href="mailto:x.greatest1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=7AA2F7&center=true&vCenter=true&width=500&lines=With+some+help+from+Google+Gemini+%E2%9C%A8" alt="With some help from Google Gemini" />
+</p>
+
 
 
