@@ -48,10 +48,10 @@
 
 ##  Beyond coding...
 
-* Gaming
-* Sports
-* Chess
-* Blah blah blah...
+* 🕹️Gaming
+* ⚽️Sports
+* ♟️Chess
+* 🗣️Blah blah blah...
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" /></p>
 
 ## 📫 Connect!
