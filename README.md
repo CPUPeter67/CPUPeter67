@@ -48,10 +48,20 @@
 
 ##  Beyond coding...
 
-* 🕹️Gaming
-* ⚽️Sports
-* ♟️Chess
-* 🗣️Blah blah blah...
+```yaml
+🕹️ [GAMING]   =======================> [ STATUS: ACTIVE ]
+  [████████░░] 80% • Mechanics, strategy, and enjoyment.
+
+⚽️ [SPORTS]   =======================> [ STATUS: TRAINING ]
+  [█████████░] 90% • Playing for fun.
+
+♟️ [CHESS]    =======================> [ STATUS: THINKING ]
+  [██████░░░░] 60% • Pattern recognition and endgame calculations.
+
+🗣️ [BLAH BLAH BLAH...]   =======================> [ STATUS: ENGAGED ]
+  [██████████] 100% BLAH BLAH BLAH!
+```
+
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" /></p>
 
 ## 📫 Connect!
@@ -62,6 +72,5 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=7AA2F7&center=true&vCenter=true&width=500&lines=With+some+help+from+Google+Gemini+%E2%9C%A8" alt="With some help from Google Gemini" />
 </p>
-
 
 
